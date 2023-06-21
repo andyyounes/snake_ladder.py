@@ -1,5 +1,5 @@
 # snake_ladder.py
-Draw a simulation of a snake ladder game with estimation time for the game
+Draw a simulation of a snake ladder game with estimation time for the game.
 The Snake and Ladder game, also known as Snakes and Ladders, is a popular board game played with dice and a game board with numbered squares. The objective of the game is to be the first player to reach the final square on the board.
 
 Here's a full description of the Snake and Ladder game:
